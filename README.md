@@ -5,7 +5,7 @@ This is a machine learning web application built using **Python** and **Streamli
 
 ## 🚀 Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) *(Replace with your app link if deployed)*
+https://healthpremium.streamlit.app/ 
 
 ---
 
