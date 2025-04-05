@@ -32,4 +32,31 @@ This is a machine learning web application built using **Python** and **Streamli
 
 ## 📁 Project Structure
 
+🧪 Model Info
+The model was trained using XGBoost.
 
+Preprocessing and training were done using scikit-learn.
+
+The model is serialized using joblib.
+
+📊 Input Parameters
+Age (int)
+
+Sex (Male/Female)
+
+BMI (float)
+
+Number of Children (int)
+
+Smoker (Yes/No)
+
+Region (Northeast, Northwest, Southeast, Southwest)
+
+
+🙌 Acknowledgements
+This project is a personal learning project inspired by real-world healthcare data and ML practices.
+
+
+📬 Contact
+Devang Patel
+📧 devangpatel572@gmail.com
